@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="added content to home page and added navigation buttons">
+    <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="Timer Made">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/timer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -30,8 +31,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,6 +44,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610775963908</updated>
-      <workItem from="1610775965718" duration="7291000" />
+      <workItem from="1610775965718" duration="2055000" />
+      <workItem from="1610778954775" duration="5754000" />
     </task>
     <task id="LOCAL-00001" summary="boilerplate hopefully">
       <created>1610778091762</created>
@@ -63,92 +68,34 @@
       <option name="project" value="LOCAL" />
       <updated>1610778091762</updated>
     </task>
-    <task id="LOCAL-00002" summary="mahtab does it work now?">
-      <created>1610778445006</created>
+    <task id="LOCAL-00002" summary="Timer Made">
+      <created>1610782284684</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1610778445006</updated>
+      <updated>1610782284684</updated>
     </task>
-    <task id="LOCAL-00003" summary="added .idea to gitignore">
-      <created>1610778605862</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1610778605862</updated>
-    </task>
-    <task id="LOCAL-00004" summary="General main page formatting">
-      <created>1610780451179</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1610780451179</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="boilerplate hopefully" />
-    <MESSAGE value="mahtab does it work now?" />
-    <MESSAGE value="added .idea to gitignore" />
-    <MESSAGE value="General main page formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="General main page formatting" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="580" y="21" key="CommitChangelistDialog2" timestamp="1610783557560">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="580" y="21" key="CommitChangelistDialog2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610783557560" />
-    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1610776757292">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="740" y="281" key="FileChooserDialogImpl/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776757292" />
-    <state x="805" y="441" key="Github.ShareDialog" timestamp="1610776805303">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="805" y="441" key="Github.ShareDialog/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776805303" />
-    <state x="726" y="161" key="Github.UntrackedFilesDialog" timestamp="1610776840456">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="726" y="161" key="Github.UntrackedFilesDialog/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776840456" />
-    <state width="1899" height="288" key="GridCell.Tab.0.bottom" timestamp="1610776207715">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.bottom/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776207715" />
-    <state width="1899" height="288" key="GridCell.Tab.0.center" timestamp="1610776207715">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.center/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776207715" />
-    <state width="1899" height="288" key="GridCell.Tab.0.left" timestamp="1610776207714">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.left/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776207714" />
-    <state width="1899" height="288" key="GridCell.Tab.0.right" timestamp="1610776207715">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.right/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776207715" />
-    <state x="590" y="293" key="MultipleFileMergeDialog" timestamp="1610782332744">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="590" y="293" key="MultipleFileMergeDialog/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610782332744" />
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1610780430997">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610780430997" />
-    <state x="777" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610782319497">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="777" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610782319497" />
-    <state x="790" y="330" key="svn.repositoryBrowser" timestamp="1610776560007">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="790" y="330" key="svn.repositoryBrowser/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776560007" />
-    <state x="739" y="302" key="svn4idea.import.options" timestamp="1610776553859">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="739" y="302" key="svn4idea.import.options/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776553859" />
+    <MESSAGE value="Timer Made" />
+    <option name="LAST_COMMIT_MESSAGE" value="Timer Made" />
   </component>
 </project>
