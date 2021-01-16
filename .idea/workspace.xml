@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/analytics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recording.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,8 +52,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610775963908</updated>
-      <workItem from="1610775965718" duration="1743000" />
+      <workItem from="1610775965718" duration="2055000" />
     </task>
+    <task id="LOCAL-00001" summary="boilerplate hopefully">
+      <created>1610778091762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610778091762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,6 +72,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="boilerplate hopefully" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="21" key="CommitChangelistDialog2" timestamp="1610778090016">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="580" y="21" key="CommitChangelistDialog2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610778090016" />
     <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1610776757292">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -88,6 +104,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="288" key="GridCell.Tab.0.right/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776207715" />
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1610778393123">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610778393123" />
     <state x="790" y="330" key="svn.repositoryBrowser" timestamp="1610776560007">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
