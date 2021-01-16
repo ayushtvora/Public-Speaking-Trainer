@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610775963908</updated>
-      <workItem from="1610775965718" duration="2055000" />
+      <workItem from="1610775965718" duration="3936000" />
     </task>
     <task id="LOCAL-00001" summary="boilerplate hopefully">
       <created>1610778091762</created>
@@ -61,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610778091762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mahtab does it work now?">
+      <created>1610778445006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610778445006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added .idea to gitignore">
+      <created>1610778605862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610778605862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,13 +84,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="boilerplate hopefully" />
-    <option name="LAST_COMMIT_MESSAGE" value="boilerplate hopefully" />
+    <MESSAGE value="mahtab does it work now?" />
+    <MESSAGE value="added .idea to gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added .idea to gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="21" key="CommitChangelistDialog2" timestamp="1610778090016">
+    <state x="580" y="21" key="CommitChangelistDialog2" timestamp="1610778604525">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="580" y="21" key="CommitChangelistDialog2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610778090016" />
+    <state x="580" y="21" key="CommitChangelistDialog2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610778604525" />
     <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1610776757292">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -104,10 +121,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="288" key="GridCell.Tab.0.right/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610776207715" />
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1610778393123">
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1610778608774">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610778393123" />
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610778608774" />
     <state x="790" y="330" key="svn.repositoryBrowser" timestamp="1610776560007">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
