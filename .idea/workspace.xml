@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="Timer Made">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/timer.js" afterDir="false" />
-    </list>
+    <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="Timer Done with functions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610775963908</updated>
       <workItem from="1610775965718" duration="2055000" />
-      <workItem from="1610778954775" duration="5754000" />
+      <workItem from="1610778954775" duration="6266000" />
     </task>
     <task id="LOCAL-00001" summary="boilerplate hopefully">
       <created>1610778091762</created>
@@ -75,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610782284684</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Timer Done with functions">
+      <created>1610784783790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610784783790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="boilerplate hopefully" />
     <MESSAGE value="Timer Made" />
-    <option name="LAST_COMMIT_MESSAGE" value="Timer Made" />
+    <MESSAGE value="Timer Done with functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Timer Done with functions" />
   </component>
 </project>
