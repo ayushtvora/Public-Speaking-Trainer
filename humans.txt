@@ -3,13 +3,18 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ayush Vora -- Front-End and Creative Writer -- https://github.com/ayushtvora/
+    Jaimil Dalwadi -- Back-End and Technical Analyst-- https://github.com/theDe-bugger/
+    Mahtab Mann -- Front-End and Designer -- https://github.com/mahtabmann2003/
+    Sam Assareymuriyil -- Back-End and Team Coordinator -- https://github.com/SamAssareymuriyil/
 
 # THANKS
 
-    <name>
+    Susan Dugdale, Gini Beqiri, and Haris Kamal - Topic Ideas
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Languages: CSS3, HTML5, JavaScript
+    Frameworks:
+    APIs:
+    Other:
