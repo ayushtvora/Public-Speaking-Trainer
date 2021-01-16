@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/topics.js" afterDir="false" />
+    <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="testing 1 2">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Post-Template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nicepage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/recording.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/statistics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/topicPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/default-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/default-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/woman-icon-plain-in-circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/nicepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topicPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timer.html" beforeDir="false" afterPath="$PROJECT_DIR$/timer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/timer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recording.html" beforeDir="false" afterPath="$PROJECT_DIR$/recording.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timer.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,8 +56,6 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.19.14" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -52,15 +70,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="timer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Public Speaking Trainer/timer.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.timer.html" />
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahta\WebstormProjects\Public-Speaking-Trainer\img" />
+      <recent name="C:\Users\mahta\WebstormProjects\Public-Speaking-Trainer\css" />
+      <recent name="C:\Users\mahta\WebstormProjects\Public-Speaking-Trainer\js" />
+      <recent name="C:\Users\mahta\WebstormProjects\Public-Speaking-Trainer" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -74,7 +90,8 @@
       <option name="presentableId" value="Default" />
       <updated>1610775963908</updated>
       <workItem from="1610775965718" duration="2055000" />
-      <workItem from="1610778954775" duration="6266000" />
+      <workItem from="1610778954775" duration="19006000" />
+      <workItem from="1610828644840" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="boilerplate hopefully">
       <created>1610778091762</created>
@@ -97,14 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610784783790</updated>
     </task>
-    <task id="LOCAL-00004" summary="removed test">
-      <created>1610785425584</created>
+    <task id="LOCAL-00004" summary="Weird Git thingy removed">
+      <created>1610785302180</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1610785425584</updated>
+      <updated>1610785302180</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="testing 1 2">
+      <created>1610785387239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610785387239</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,21 +150,8 @@
     <MESSAGE value="boilerplate hopefully" />
     <MESSAGE value="Timer Made" />
     <MESSAGE value="Timer Done with functions" />
-    <MESSAGE value="removed test" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed test" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="580" y="21" key="CommitChangelistDialog2" timestamp="1610785424188">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="580" y="21" key="CommitChangelistDialog2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610785424188" />
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1610785429984">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610785429984" />
-    <state x="777" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610785397608">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="777" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610785397608" />
+    <MESSAGE value="Weird Git thingy removed" />
+    <MESSAGE value="testing 1 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing 1 2" />
   </component>
 </project>
