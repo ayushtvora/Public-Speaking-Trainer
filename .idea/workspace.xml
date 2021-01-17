@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="984202a5-0706-4b62-a3df-3b213d30a4c1" name="Default Changelist" comment="Revamping this">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topicPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/topicPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/topicPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/topicPage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -34,8 +33,6 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.19.14" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -50,15 +47,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="timer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Public Speaking Trainer/timer.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.timer.html" />
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahta\WebstormProjects\Public-Speaking-Trainer\img" />
+      <recent name="C:\Users\mahta\WebstormProjects\Public-Speaking-Trainer\css" />
+      <recent name="C:\Users\mahta\WebstormProjects\Public-Speaking-Trainer\js" />
+      <recent name="C:\Users\mahta\WebstormProjects\Public-Speaking-Trainer" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -72,8 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1610775963908</updated>
       <workItem from="1610775965718" duration="2055000" />
-      <workItem from="1610778954775" duration="6266000" />
-      <workItem from="1610818097939" duration="1899000" />
+      <workItem from="1610778954775" duration="19006000" />
+      <workItem from="1610828644840" duration="6015000" />
     </task>
     <task id="LOCAL-00001" summary="boilerplate hopefully">
       <created>1610778091762</created>
@@ -96,21 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1610784783790</updated>
     </task>
-    <task id="LOCAL-00004" summary="removed test">
-      <created>1610785425584</created>
+    <task id="LOCAL-00004" summary="Weird Git thingy removed">
+      <created>1610785302180</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1610785425584</updated>
+      <updated>1610785302180</updated>
     </task>
-    <task id="LOCAL-00005" summary="a lot.">
-      <created>1610791569218</created>
+    <task id="LOCAL-00005" summary="testing 1 2">
+      <created>1610785387239</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1610791569218</updated>
+      <updated>1610785387239</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Revamping this">
+      <created>1610830107384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610830107384</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,42 +134,9 @@
     <MESSAGE value="boilerplate hopefully" />
     <MESSAGE value="Timer Made" />
     <MESSAGE value="Timer Done with functions" />
-    <MESSAGE value="removed test" />
-    <MESSAGE value="a lot." />
-    <option name="LAST_COMMIT_MESSAGE" value="a lot." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="580" y="21" key="CommitChangelistDialog2" timestamp="1610791567217">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="580" y="21" key="CommitChangelistDialog2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610791567217" />
-    <state width="1899" height="288" key="GridCell.Tab.0.bottom" timestamp="1610791626638">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.bottom/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610791626638" />
-    <state width="1899" height="288" key="GridCell.Tab.0.center" timestamp="1610791626637">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.center/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610791626637" />
-    <state width="1899" height="288" key="GridCell.Tab.0.left" timestamp="1610791626637">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.left/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610791626637" />
-    <state width="1899" height="288" key="GridCell.Tab.0.right" timestamp="1610791626637">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="288" key="GridCell.Tab.0.right/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610791626637" />
-    <state x="184" y="89" key="MergeDialog" timestamp="1610831976451">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="184" y="89" key="MergeDialog/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610831976451" />
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1610791575237">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610791575237" />
-    <state x="777" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610831961314">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="777" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.33.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1610831961314" />
+    <MESSAGE value="Weird Git thingy removed" />
+    <MESSAGE value="testing 1 2" />
+    <MESSAGE value="Revamping this" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revamping this" />
   </component>
 </project>
